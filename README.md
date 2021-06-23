@@ -13,7 +13,7 @@ In this method i have added delay to fix render target => mask texture replaceme
 
 
 
-**Time to fix a bug**
+**Time to fix a bug** (Steps from site, if above site down aagita, so atha copy paste [optional]
 
 If you pushed your lens to your device (which you always do before submitting, right?), you may have noticed that it crashes when creating the clones. The UI works and the countdown works, but once you get to the first clone it crashes. This sort of problem is super frustrating to troubleshoot because everything was working fine inside Lens Studio and Snapchat doesn't tell us what went wrong.
 
