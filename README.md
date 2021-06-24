@@ -1,4 +1,4 @@
-# CloneLens
+# CloneLens LensStudio version 4.0.1
 Used M.H saliency model, resolved challenges on OPENGL Crash issues becuase 
 we cannot user copyFrame() function for segmentation image for that. SOlution
 
